@@ -2,6 +2,8 @@
 
 A modern, full-stack e-commerce platform built with the MERN stack (MongoDB, Express, React, Node.js).
 
+[**🚀 Live Demo**](https://cartify-in.netlify.app/)
+
 ## 🚀 Features
 
 ### User Features
