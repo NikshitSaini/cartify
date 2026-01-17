@@ -197,19 +197,6 @@ db.users.updateOne({ email: "admin@example.com" }, { $set: { role: "admin" } });
 6. Manually set user as admin in MongoDB
 7. Access admin panel to manage products and orders
 
-## 📝 Future Enhancements
-
-- [ ] Product reviews and ratings
-- [ ] Wishlist functionality
-- [ ] Real payment integration (Stripe/PayPal)
-- [ ] Image upload with Cloudinary
-- [ ] Email notifications
-- [ ] Password reset functionality
-- [ ] Advanced analytics dashboard
-- [ ] Product categories with images
-- [ ] Related products
-- [ ] Order tracking with shipment details
-
 ## 📄 License
 
 MIT
